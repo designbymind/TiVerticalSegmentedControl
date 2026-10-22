@@ -1,0 +1,12 @@
+.DS_Store
+build/
+dist/
+*.xcuserstate
+xcuserdata/
+validation/VerticalSegmentedDemo/modules/
+validation/AlloyCompile/
+validation/VerticalSegmentedClassicExample/
+validation/ExampleAlloyCompile/
+.vscode/
+ios/metadata.json
+validation/VerticalSegmentedDemo/platform/android/

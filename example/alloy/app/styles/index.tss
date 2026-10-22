@@ -1,0 +1,12 @@
+'#scroll': { layout: 'vertical', contentHeight: Ti.UI.SIZE, contentWidth: Ti.UI.FILL, showVerticalScrollIndicator: true }
+'#intro': { top: 20, left: 20, right: 20, height: Ti.UI.SIZE, font: { fontSize: 15 } }
+'#preview': { top: 20, left: 20, right: 20, height: 260, borderRadius: 20 }
+'#map': { top: 0, bottom: 0, left: 0, right: 0, zIndex: 0, borderRadius: 20 }
+'.caption': { zIndex: 1, backgroundColor: '#CCFFFFFF', color: '#24372F', borderRadius: 8, touchEnabled: false, top: 18, width: 100, height: Ti.UI.SIZE, textAlign: 'center', font: { fontSize: 15, fontWeight: 'bold' } }
+'#nativeCaption': { left: 20 }
+'#customCaption': { right: 20 }
+'#nativeControl': { zIndex: 1, left: 45, top: 55, width: 60, height: Ti.UI.SIZE, segmentHeight: 60, pointSize: 18 }
+'#customControl': { zIndex: 1, right: 45, top: 55, width: 60, height: Ti.UI.SIZE, segmentHeight: 60, pointSize: 18 }
+'.status': { top: 14, left: 20, right: 20, height: Ti.UI.SIZE, font: { fontSize: 14 } }
+'.action': { top: 10, height: 44 }
+'#details': { top: 20, left: 20, right: 20, bottom: 28, height: Ti.UI.SIZE, font: { fontSize: 13 } }

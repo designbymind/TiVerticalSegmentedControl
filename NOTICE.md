@@ -1,0 +1,3 @@
+TiVerticalSegmentedControl is inspired by VerticalSC by Balaji Venkatesh (Kavsoft), supplied by the user for this port. The supplied sample contains no license file. The upstream Xcode project, SwiftUI views and assets are not distributed here. The module implements its Titanium bridge and UIKit view independently, including the same rotation technique and a localized track-hiding workaround. The MIT license applies to this module's code; it makes no claim about licensing of the upstream sample.
+
+The Titanium CLI generated the project/bootstrap files and ti.swiftsupport.js hook. Their existing notices are retained.

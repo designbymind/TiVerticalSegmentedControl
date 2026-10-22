@@ -1,0 +1,296 @@
+[
+  {
+    "stage": "creation",
+    "control": 0,
+    "segment": 0,
+    "color": "#007AFF",
+    "matchingPixels": 1921
+  },
+  {
+    "stage": "creation",
+    "control": 0,
+    "segment": 1,
+    "color": "#FF6600",
+    "matchingPixels": 1505
+  },
+  {
+    "stage": "creation",
+    "control": 0,
+    "segment": 2,
+    "color": "#FF6600",
+    "matchingPixels": 1099
+  },
+  {
+    "stage": "creation",
+    "control": 1,
+    "segment": 0,
+    "color": "#FF6600",
+    "matchingPixels": 1975
+  },
+  {
+    "stage": "creation",
+    "control": 1,
+    "segment": 1,
+    "color": "#007AFF",
+    "matchingPixels": 1502
+  },
+  {
+    "stage": "creation",
+    "control": 1,
+    "segment": 2,
+    "color": "#FF6600",
+    "matchingPixels": 1167
+  },
+  {
+    "stage": "live",
+    "control": 0,
+    "segment": 0,
+    "color": "#008040",
+    "matchingPixels": 1921
+  },
+  {
+    "stage": "live",
+    "control": 0,
+    "segment": 1,
+    "color": "#8E44AD",
+    "matchingPixels": 1497
+  },
+  {
+    "stage": "live",
+    "control": 0,
+    "segment": 2,
+    "color": "#8E44AD",
+    "matchingPixels": 1087
+  },
+  {
+    "stage": "live",
+    "control": 1,
+    "segment": 0,
+    "color": "#8E44AD",
+    "matchingPixels": 1926
+  },
+  {
+    "stage": "live",
+    "control": 1,
+    "segment": 1,
+    "color": "#008040",
+    "matchingPixels": 1509
+  },
+  {
+    "stage": "live",
+    "control": 1,
+    "segment": 2,
+    "color": "#8E44AD",
+    "matchingPixels": 1094
+  },
+  {
+    "stage": "inheritance",
+    "control": 0,
+    "segment": 0,
+    "color": "#8E44AD",
+    "matchingPixels": 1925
+  },
+  {
+    "stage": "inheritance",
+    "control": 0,
+    "segment": 1,
+    "color": "#8E44AD",
+    "matchingPixels": 1497
+  },
+  {
+    "stage": "inheritance",
+    "control": 0,
+    "segment": 2,
+    "color": "#8E44AD",
+    "matchingPixels": 1087
+  },
+  {
+    "stage": "inheritance",
+    "control": 1,
+    "segment": 0,
+    "color": "#8E44AD",
+    "matchingPixels": 1926
+  },
+  {
+    "stage": "inheritance",
+    "control": 1,
+    "segment": 1,
+    "color": "#8E44AD",
+    "matchingPixels": 1496
+  },
+  {
+    "stage": "inheritance",
+    "control": 1,
+    "segment": 2,
+    "color": "#8E44AD",
+    "matchingPixels": 1094
+  },
+  {
+    "stage": "reset",
+    "control": 0,
+    "segment": 0,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "reset",
+    "control": 0,
+    "segment": 1,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "reset",
+    "control": 0,
+    "segment": 2,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "reset",
+    "control": 1,
+    "segment": 0,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "reset",
+    "control": 1,
+    "segment": 1,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "reset",
+    "control": 1,
+    "segment": 2,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "active-only",
+    "control": 0,
+    "segment": 0,
+    "color": "#007AFF",
+    "matchingPixels": 1921
+  },
+  {
+    "stage": "active-only",
+    "control": 0,
+    "segment": 1,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "active-only",
+    "control": 0,
+    "segment": 2,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "active-only",
+    "control": 1,
+    "segment": 0,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "active-only",
+    "control": 1,
+    "segment": 1,
+    "color": "#007AFF",
+    "matchingPixels": 1502
+  },
+  {
+    "stage": "active-only",
+    "control": 1,
+    "segment": 2,
+    "color": "system",
+    "oldPalettePixels": 0
+  },
+  {
+    "stage": "selection",
+    "control": 0,
+    "segment": 0,
+    "color": "#FF6600",
+    "matchingPixels": 1924
+  },
+  {
+    "stage": "selection",
+    "control": 0,
+    "segment": 1,
+    "color": "#FF6600",
+    "matchingPixels": 1505
+  },
+  {
+    "stage": "selection",
+    "control": 0,
+    "segment": 2,
+    "color": "#007AFF",
+    "matchingPixels": 1087
+  },
+  {
+    "stage": "selection",
+    "control": 1,
+    "segment": 0,
+    "color": "#007AFF",
+    "matchingPixels": 1924
+  },
+  {
+    "stage": "selection",
+    "control": 1,
+    "segment": 1,
+    "color": "#FF6600",
+    "matchingPixels": 1547
+  },
+  {
+    "stage": "selection",
+    "control": 1,
+    "segment": 2,
+    "color": "#FF6600",
+    "matchingPixels": 1167
+  },
+  {
+    "stage": "style-change",
+    "control": 0,
+    "segment": 0,
+    "color": "#FF6600",
+    "matchingPixels": 1975
+  },
+  {
+    "stage": "style-change",
+    "control": 0,
+    "segment": 1,
+    "color": "#FF6600",
+    "matchingPixels": 1547
+  },
+  {
+    "stage": "style-change",
+    "control": 0,
+    "segment": 2,
+    "color": "#007AFF",
+    "matchingPixels": 1087
+  },
+  {
+    "stage": "style-change",
+    "control": 1,
+    "segment": 0,
+    "color": "#007AFF",
+    "matchingPixels": 1921
+  },
+  {
+    "stage": "style-change",
+    "control": 1,
+    "segment": 1,
+    "color": "#FF6600",
+    "matchingPixels": 1505
+  },
+  {
+    "stage": "style-change",
+    "control": 1,
+    "segment": 2,
+    "color": "#FF6600",
+    "matchingPixels": 1099
+  }
+]

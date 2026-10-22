@@ -1,0 +1,24 @@
+<Alloy>
+	<NavigationWindow id="navigation" onClose="onProjectClosed">
+		<Window id="gallery" title="Vertical Segmented Control">
+			<LeftNavButton><Button title="Close" onClick="closeProject" /></LeftNavButton>
+			<ScrollView id="scroll">
+				<Label id="intro" text="TiVerticalSegmentedControl · native and customizable glass. Tap or drag a control to change its selection." />
+				<View id="preview">
+					<View id="map" module="ti.map" />
+					<Label id="nativeCaption" class="caption" text="Native" />
+					<Label id="customCaption" class="caption" text="Custom" />
+					<View id="nativeControl" module="ti.verticalsegmentedcontrol" onChange="nativeChanged" />
+					<View id="customControl" module="ti.verticalsegmentedcontrol" onChange="customChanged" />
+				</View>
+				<Label id="nativeStatus" class="status" />
+				<Label id="customStatus" class="status" />
+				<Button class="action" id="nextButton" title="Select next on both" onClick="selectNext" />
+				<Button class="action" id="tintButton" title="Custom tint: default" onClick="changeTint" />
+				<Button class="action" id="iconTintButton" title="Icons: appearance default" onClick="changeIconColors" />
+				<Button class="action" id="enabledButton" title="Controls: enabled" onClick="toggleEnabled" />
+				<Label id="details" text="Explore shows the standard map, Driving uses muted roads, and Satellite shows imagery with labels. Both controls follow the same map mode. Close and reopen this component to reset it." />
+			</ScrollView>
+		</Window>
+	</NavigationWindow>
+</Alloy>

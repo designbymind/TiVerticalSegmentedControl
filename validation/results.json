@@ -1,0 +1,24 @@
+{
+  "module": "ti.verticalsegmentedcontrol",
+  "version": "0.1.1",
+  "minimumIOS": "27.0",
+  "xcode": "27.1 beta (27A9269)",
+  "titaniumSDK": "13.4.1.GA",
+  "zipCRC": "passed",
+  "sha256": "1ccc09a0506065f2ef8749efa5df39a1673f8805653ffcbca878981a965f3d35",
+  "deviceArchitectures": [
+    "arm64"
+  ],
+  "simulatorArchitectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "runtimeBridgeChecks": 17,
+  "renderedIconChecks": 42,
+  "renderedSnapshots": 14,
+  "simulator": "iPhone 18 Pro / iOS 27.0",
+  "alloyTestApp": "built with app-local 0.1.1",
+  "physicalDevice": "not tested",
+  "previousPackageSHA256": "72175b8279e355c1507f4acbabc12b195c8643a8f2dab23d8851d53e71d9f3b1",
+  "packageRefresh": "Examples and documentation updated; all 36 native framework files match the validated build"
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "change": "Example and documentation refresh from AlloyTestApp",
+  "sha256": "1ccc09a0506065f2ef8749efa5df39a1673f8805653ffcbca878981a965f3d35",
+  "nativeFrameworkFilesUnchanged": 36,
+  "archiveIntegrity": "passed",
+  "exampleSourceMatch": "passed",
+  "alloyCompilation": "passed",
+  "classicConsumingAppBuild": "passed (iOS 27 simulator, Xcode 27.1 beta, Titanium 13.4.1.GA)",
+  "runtimeInteraction": "not exercised for this example refresh"
+}
