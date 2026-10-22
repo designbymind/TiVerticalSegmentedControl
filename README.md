@@ -1,6 +1,16 @@
 # TiVerticalSegmentedControl
 
-UIKit vertical segmented controls for Titanium, inspired by Kavsoft's VerticalSC demonstration. Module ID: `ti.verticalsegmentedcontrol`. Version: **0.1.1**. Requires **iOS 27+**, Titanium **13.4.1.GA+**, and a compatible Xcode 27 SDK.
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/TiVerticalSegmentedControl-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/TiVerticalSegmentedControl-Light.png">
+    <img src="assets/TiVerticalSegmentedControl-Light.png" alt="TiVerticalSegmentedControl above a Map" width="640">
+  </picture>
+</p>
+
+## UIKit Vertical Segmented Controls for Titanium 🚦 
+
+Module ID: `ti.verticalsegmentedcontrol`. Version: **0.1.1**. Requires **iOS 27+**, Titanium **13.4.1.GA+**, and a compatible Xcode 27 SDK.
 
 Both styles use a real `UISegmentedControl`, rotated vertically with upright SF Symbols:
 
